@@ -1,0 +1,45 @@
+body {
+    background-color: aquamarine;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.cuadradito {
+    background-color: #FF0000;
+    width: 250px;
+    height: 250px;
+}
+.cuadradito2 {
+    background-color: #FF0033;
+    width: 250px;
+    height: 250px;
+}
+.cuadradito3 {
+    background-color: #FF0066;
+    width: 250px;
+    height: 250px;
+}
+.cuadradito4 {
+    background-color: #FF0099;
+    width: 250px;
+    height: 250px;
+}
+.cuadradito5 {
+    background-color: #FF00CC;
+    width: 250px;
+    height: 250px;
+}
+.cuadradito6 {
+    background-color: #FF00FF;
+    width: 250px;
+    height: 250px;
+}
+.footer {
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif; 
+    background-color:cadetblue;
+    color: #990066;
+    text-align: center;  
+    height: 50px;  
+}
